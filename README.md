@@ -161,6 +161,7 @@ The primary goals of AIDOS are to:
 | README.md | Project overview |
 | ROADMAP.md | Development roadmap |
 | docs/Architecture/SystemArchitecture.md | System architecture |
+| docs/Planning/Version1.0.md | Version 1.0 release plan |
 | docs/API | API documentation *(Coming Soon)* |
 | docs/Database | Database design *(Coming Soon)* |
 | docs/UI | UI documentation *(Coming Soon)* |
