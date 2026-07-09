@@ -1,0 +1,25 @@
+.file-card {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    background: #1E293B;
+
+    color: white;
+
+    padding: 18px;
+
+    border-radius: 15px;
+
+    transition: .3s;
+
+    cursor: pointer;
+}
+
+.file-card:hover{
+
+    transform: translateY(-3px);
+
+    background:#2563EB;
+
+}

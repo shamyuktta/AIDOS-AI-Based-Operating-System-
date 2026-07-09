@@ -1,0 +1,46 @@
+.history-item{
+    display:flex;
+    align-items:center;
+    gap:20px;
+
+    background:#1d2738;
+
+    padding:18px;
+
+    border-radius:14px;
+
+    margin-bottom:18px;
+
+    transition:.3s;
+}
+
+.history-item:hover{
+    transform:translateY(-3px);
+
+    box-shadow:0 10px 25px rgba(0,0,0,.35);
+}
+
+.history-dot{
+
+    width:16px;
+
+    height:16px;
+
+    background:#3b82f6;
+
+    border-radius:50%;
+}
+
+.history-content h3{
+
+    margin:0;
+
+    color:white;
+}
+
+.history-content p{
+
+    margin-top:6px;
+
+    color:#94a3b8;
+}

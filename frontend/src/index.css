@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  font-family:"Inter",sans-serif;
+  background:#0F172A;
+  color:white;
+}
+
+#root{
+  display:flex;
+  min-height:100vh;
+  width:100%;
+}
+
+a{
+  text-decoration:none;
+  color:inherit;
+}
+
+button{
+  font-family:"Inter",sans-serif;
+  cursor:pointer;
+}
+
+input{
+  font-family:"Inter",sans-serif;
+}
