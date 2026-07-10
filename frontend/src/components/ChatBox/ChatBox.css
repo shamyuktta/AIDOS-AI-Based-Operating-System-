@@ -1,0 +1,17 @@
+.chat-box{
+
+    background:#111827;
+
+    border-radius:20px;
+
+    padding:30px;
+
+    min-height:600px;
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:space-between;
+
+}

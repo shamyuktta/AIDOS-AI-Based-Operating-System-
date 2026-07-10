@@ -1,0 +1,38 @@
+.setting-item{
+    background:#1E293B;
+    border-radius:18px;
+    padding:22px;
+    margin-bottom:18px;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    transition:.3s;
+}
+
+.setting-item:hover{
+    transform:translateY(-3px);
+}
+
+.setting-item h3{
+    color:white;
+    margin-bottom:6px;
+}
+
+.setting-item p{
+    color:#94A3B8;
+}
+
+.setting-item button{
+    background:#2563EB;
+    color:white;
+    border:none;
+    padding:10px 18px;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+.setting-item button:hover{
+    background:#1D4ED8;
+}
